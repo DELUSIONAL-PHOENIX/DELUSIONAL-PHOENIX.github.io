@@ -4,12 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FIREBIRD RECORDS</title>
+    <title>FIREBIRD RECORDZ</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
     <link rel="icon" href="./images/profile.jpg" type="image/x-icon" />
 </head>
-a
+
 <body>
 
     <a class="profilePicture">
@@ -21,7 +21,7 @@ a
     </div>
 
     <div class="description">
-        Latest release of musical artist DELUSIONAL PHOENIX. Available on all platforms now.
+        Link to "Just Me" by DELUSIONAL PHOENIX. Show some support and share to a friend!   
     </div>
 
     <div class="links">
@@ -45,18 +45,21 @@ a
 		<a class="link" href="https://soundcloud.app.goo.gl/bYr6X" target="_blank">
             <i class="fab fa-soundcloud">&nbsp;</i> Soundcloud
         </a>
-		<a class="link" href="https://instagram.com/delusionalphoenix?igshid=YmMyMTA2M2Y="" target="_blank">
-            <i class="fab fa-instagram">&nbsp;</i> Instagram
+		<a class="link" href="https://music.amazon.com/albums/B09X4NTM2K?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_gFgs38cNhBf8IUzA6PhUQnoR5&trackAsin=B09X4MBWFR" target="_blank">
+            <i class="fab fa-amazon">&nbsp;</i> Amazon Music
         </a>
-    </div>
-
+		<a class="link" href="https://instagram.com/delusionalphoenix?igshid=YmMyMTA2M2Y=" target="_blank">
+            <i class="fab fa-instagram">&nbsp;</i> Instagram
+        </a>	
+		<a class="link" href="https://www.youtube.com/channel/UCloiSzC4KWHD20mz88ur0Rg" target="_blank">
+            <i class="fab fa-youtube">&nbsp;</i> Youtube
+			</a>
+		</div>
 
 	<div class="source">
-        Thank you for ALL the support! Show some love on the internet.  
-        <a href="https://www.youtube.com/channel/UCloiSzC4KWHD20mz88ur0Rg">Youtube Page</a>
-</div>
-
-
+        Until we're up, keep plugging some love. Thank you!
+        <a color="purple" href="https://www.youtube.com/watch?v=DAg8KcS04GM">Having fun is okay...</a>
+		</div> -->
 
 
 
